@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 - 💬 Ask me about <strong>EDI</strong>
 - 📫 How to reach me: <strong>beloborodova.viktoriia@gmail.com</strong>
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viktoriia-code&theme=nord_bright)
