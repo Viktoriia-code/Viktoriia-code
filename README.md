@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Viktoriia
+# Hi there 👋
 
 
 
