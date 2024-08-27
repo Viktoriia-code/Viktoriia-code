@@ -9,7 +9,13 @@
 - 💬 Ask me about <strong>EDI</strong>
 - 📫 How to reach me: <strong>beloborodova.viktoriia@gmail.com</strong>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viktoriia-code&theme=nord_bright)
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Viktoriia-code&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viktoriia-code&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viktoriia-code&theme=blueberry&count_private=true&hide_border=true&line_height=20)
+</details>
 
 # My Skills
 
