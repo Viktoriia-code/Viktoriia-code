@@ -1,8 +1,10 @@
 # Hi there, I am Viktoriia 👋
 
-- :book: I’m studying [Software Engineering](https://www.metropolia.fi/en/academics/bachelors-degrees/information-technology) at [Metropolia University](https://www.metropolia.fi/en) in Helsinki.
+- :book: I’m completing [a Software Engineering bachelor degree](https://www.metropolia.fi/en/academics/bachelors-degrees/information-technology) at [Metropolia University](https://www.metropolia.fi/en) in Helsinki.
 - 🌱 I’m currently learning
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" width="30"/></a> Node.js
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin" width="30"/></a> Kotlin,
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" width="30"/></a> Docker,
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes" width="30"/></a> Kubernetes
 - 👯 I’m looking to collaborate on <strong>some interesting projects/startups</strong>
 - 🎨 I make designs with <strong>Figma</strong>
 - 💬 Ask me about <strong>EDI</strong>
