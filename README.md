@@ -1,4 +1,4 @@
-# Hello, I am Viktoriia!
+# Hello, I'm Viktoriia!
 
 - :book: I’m completing [a Software Engineering bachelor degree](https://www.metropolia.fi/en/academics/bachelors-degrees/information-technology) at [Metropolia University](https://www.metropolia.fi/en) in Helsinki.
 - 🌱 I’m currently learning
