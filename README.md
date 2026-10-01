@@ -9,10 +9,7 @@ I'm a **Software Engineer** with experience in **frontend, backend, and mobile d
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin" width="30"/></a> Kotlin,
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" width="30"/></a> Docker,
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes" width="30"/></a> Kubernetes
-- 👯 I’m looking to collaborate on <strong>some interesting projects/startups</strong>
-- 🎨 I make designs with <strong>Figma</strong>
-- 💬 Ask me about <strong>EDI</strong>
-- 📫 How to reach me: <strong>beloborodova.viktoriia@gmail.com</strong>
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/viktoriia-beloborodova/) | [beloborodova.viktoriia@gmail.com](mailto:beloborodova.viktoriia@gmail.com)
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,express,py,flask,tailwind,mongodb)](https://skillicons.dev)<br />
 [![SkillIcons](https://skillicons.dev/icons?i=sass,figma,github,npm,bootstrap)](https://skillicons.dev)
