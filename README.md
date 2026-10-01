@@ -1,5 +1,9 @@
 # Hello, I'm Viktoriia!
 
+### 🚀 About me
+
+I'm a **Software Engineer** with experience in **frontend, backend, and mobile development**, having a strong interest in building reliable and maintainable software. I enjoy learning through hands on projects, exploring new technologies, and turning technical ideas into practical solutions.
+
 - :book: I’m completing [a Software Engineering bachelor degree](https://www.metropolia.fi/en/academics/bachelors-degrees/information-technology) at [Metropolia University](https://www.metropolia.fi/en) in Helsinki.
 - 🌱 I’m currently learning
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin" width="30"/></a> Kotlin,
