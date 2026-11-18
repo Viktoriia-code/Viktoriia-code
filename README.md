@@ -1,6 +1,4 @@
-# Hello, I'm Viktoriia!
-
-### About me
+Hello world! 👋
 
 I'm a **Software Engineer** with experience in **frontend, backend, and mobile development**, having a strong interest in building reliable and maintainable software. I enjoy learning through hands on projects, exploring new technologies, and turning technical ideas into practical solutions.
 
